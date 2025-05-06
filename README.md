@@ -3,8 +3,9 @@
 Scribe app, a robust mobile app built in flutter, is a part of the scribe tribe platform. Scribe app allows scribes (volunteers) to register themselves and view and apply
 to scribe requests created by visually impaired students from the student app.
 
-Student app: 
-scribe tribe backend: 
+Student app: https://github.com/prithviraj2002/student-app/tree/main
+
+scribe tribe backend: https://github.com/prithviraj2002/scribe-tribe-backend/tree/main
 
 ## Tech Stack
 Frontend: Flutter,
