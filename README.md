@@ -7,8 +7,10 @@ Student app:
 scribe tribe backend: 
 
 ## Tech Stack
-Frontend: Flutter
-Backend: Nodejs
+Frontend: Flutter,
+
+Backend: Nodejs,
+
 Database: Mongodb
 
 Tools used: Android Studio, github, postman, vs code, mongodb compass, firebase.
@@ -22,5 +24,9 @@ Languages: Dart(Flutter), Javascript (Node js).
 4. Update profile details as and when required.
 
 ## Working preview
+Below is a breif working preview of the app.
+
+https://github.com/user-attachments/assets/34f4d898-5360-454b-a019-60acb34e3ecf
+
 
 
