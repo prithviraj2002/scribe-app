@@ -2,6 +2,7 @@
 
 <img width="1080" alt="Scribe Tribe Header" src="https://github.com/user-attachments/assets/a6ea49ce-dd8c-4771-8806-3e5574782fdd" />
 
+
 Scribe app, a robust mobile app built in flutter, is a part of the scribe tribe platform. Scribe app allows scribes (volunteers) to register themselves and view and apply
 to scribe requests created by visually impaired students from the student app.
 
